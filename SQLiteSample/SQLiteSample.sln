@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLiteSample", "SQLiteSample\SQLiteSample.csproj", "{9ECF6B10-7578-42BB-95C6-685C7E014A94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ECF6B10-7578-42BB-95C6-685C7E014A94}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{9ECF6B10-7578-42BB-95C6-685C7E014A94}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{9ECF6B10-7578-42BB-95C6-685C7E014A94}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{9ECF6B10-7578-42BB-95C6-685C7E014A94}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{9ECF6B10-7578-42BB-95C6-685C7E014A94}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{9ECF6B10-7578-42BB-95C6-685C7E014A94}.Debug|iPhone.Build.0 = Debug|iPhone
+		{9ECF6B10-7578-42BB-95C6-685C7E014A94}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{9ECF6B10-7578-42BB-95C6-685C7E014A94}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{9ECF6B10-7578-42BB-95C6-685C7E014A94}.Release|iPhone.ActiveCfg = Release|iPhone
+		{9ECF6B10-7578-42BB-95C6-685C7E014A94}.Release|iPhone.Build.0 = Release|iPhone
+		{9ECF6B10-7578-42BB-95C6-685C7E014A94}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{9ECF6B10-7578-42BB-95C6-685C7E014A94}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = SQLiteSample\SQLiteSample.csproj
+	EndGlobalSection
+EndGlobal
